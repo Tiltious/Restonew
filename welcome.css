@@ -1,0 +1,17 @@
+.start_menu {
+    margin:10% 20%;
+    padding:10%;
+    box-shadow: 0px 0px 30px black;
+    border-radius: 10px;
+}
+.edit_product_menu {
+    margin:1% 20%;
+    padding:2.4% 10%;
+    box-shadow: 0px 0px 30px black;
+    border-radius: 10px;
+}
+.delete_container{
+    box-shadow: 0px 0px 100px 20px red;
+    border-radius: 10px;
+
+}
